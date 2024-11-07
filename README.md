@@ -2,6 +2,20 @@
 代驾、代驾系统、代驾APP、代驾小程序、同城代驾、汽车代驾、代驾软件、代驾平台
 
 # 技术框架
+    前端：vue uniapp框架
+    后端：java springBoot
+    管理端：vue+elementUI
+    用户端：uniapp（vue语法）
+    版本支持：Android+IOS+H5+小程序
+    后台服务：SpringBoot+MyBatis+MySql
+    核心框架：Spring Boot
+    视图框架：Spring MVC
+    安全框架：Apache Shiro
+    持久层框架：MyBatis
+    数据库连接池：Druid
+    日志管理：Log4j
+    定时器：Quartz
+    数据库：MySql
 
 # 软件截图
 
